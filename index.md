@@ -52,5 +52,5 @@ Different domains, same instinct: take a slow, expensive, expert-bound process a
 ## Get in touch
 
 - **GitHub:** [@Rezvision](https://github.com/Rezvision)
-- **Email:** _add address_
-- **ORCID / Google Scholar / LinkedIn:** _add links_
+- **Email:** reza.foratikashani@swansea.ac.uk
+- **LinkedIn:** [Reza Forati](https://uk.linkedin.com/in/rezaforati)
